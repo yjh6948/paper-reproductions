@@ -1,0 +1,306 @@
+{
+  "raw": [
+    {
+      "id": 1,
+      "title": "How to Cut Employee Onboarding Time in Half",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 2,
+      "title": "The Definitive Guide to Cutting Cloud Costs Without Cutting Capacity",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Why Your Remote Team's Communication Is Breaking Down (And How to Fix It)",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Reducing Customer Churn: A Practical Framework",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 5,
+      "title": "API Rate Limiting: What Every Backend Team Should Know",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sales Pipeline Forecasting That Finance Actually Trusts",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 7,
+      "title": "The Backup Strategy Most Small Teams Get Wrong",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "present",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "no",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Three A/B Testing Mistakes That Quietly Ruin Your Results",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Password Security for Small Teams: A No-Nonsense Guide",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Why Your Meetings Keep Multiplying (And How Async Work Fixes It)",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    }
+  ],
+  "humanized": [
+    {
+      "id": 1,
+      "title": "Onboarding takes too long at most companies",
+      "answers": {
+        "conclusion_behavior": "ends_on_plain_fact",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Your cloud bill is probably too high",
+      "answers": {
+        "conclusion_behavior": "ends_on_plain_fact",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Your remote team has too many channels, not too few messages",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "no",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Generic retention emails don't stop churn",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "no",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Rate limiting your API isn't optional at scale",
+      "answers": {
+        "conclusion_behavior": "ends_on_plain_fact",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Why finance discounts your sales forecast by 30%",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "no",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Nobody tests whether their backups actually restore",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Your A/B test might be lying to you",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "absent",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Small teams get hacked too",
+      "answers": {
+        "conclusion_behavior": "restates_or_reframes",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "has_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "present",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    },
+    {
+      "id": 10,
+      "title": "More meetings won't fix your meeting problem",
+      "answers": {
+        "conclusion_behavior": "ends_on_plain_fact",
+        "payoff_first_promise_location": "not_title",
+        "functional_stage_inventory": "no_summary_stage",
+        "external_participation_pathway": "absent",
+        "legacy_vs_modern_contrast": "present",
+        "thesis_before_first_unit": "yes",
+        "stakes_escalation": "absent",
+        "primary_voice_identity": "editorial_explainer",
+        "article_length_class": "short_under_800"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+ "base_cost_pflops": {
+  "summary": 2.646,
+  "surgical": 4.946,
+  "aggressive": 2.563,
+  "truncate": 15.415
+ },
+ "results": {
+  "W1-O": {
+   "acc": 0.5779,
+   "acc_sd": 0.0031,
+   "cost": 4.1111,
+   "cost_sd": 0.4299,
+   "pi": {
+    "summary": 0.504,
+    "surgical": 0.427,
+    "aggressive": 0.031,
+    "truncate": 0.038
+   }
+  },
+  "W1-G": {
+   "acc": 0.5814,
+   "acc_sd": 0.0034,
+   "cost": 3.5186,
+   "cost_sd": 0.3055,
+   "pi": {
+    "summary": 0.728,
+    "surgical": 0.214,
+    "aggressive": 0.028,
+    "truncate": 0.03
+   }
+  },
+  "W1-U": {
+   "acc": 0.5851,
+   "acc_sd": 0.0031,
+   "cost": 3.1558,
+   "cost_sd": 0.1658,
+   "pi": {
+    "summary": 0.843,
+    "surgical": 0.112,
+    "aggressive": 0.026,
+    "truncate": 0.02
+   }
+  },
+  "W2-O": {
+   "acc": 0.5706,
+   "acc_sd": 0.0088,
+   "cost": 3.5131,
+   "cost_sd": 0.3314,
+   "pi": {
+    "summary": 0.755,
+    "surgical": 0.182,
+    "aggressive": 0.028,
+    "truncate": 0.035
+   }
+  },
+  "W2-G": {
+   "acc": 0.5796,
+   "acc_sd": 0.0043,
+   "cost": 3.1763,
+   "cost_sd": 0.1412,
+   "pi": {
+    "summary": 0.862,
+    "surgical": 0.089,
+    "aggressive": 0.024,
+    "truncate": 0.026
+   }
+  },
+  "W2-U": {
+   "acc": 0.584,
+   "acc_sd": 0.0029,
+   "cost": 3.0013,
+   "cost_sd": 0.0692,
+   "pi": {
+    "summary": 0.902,
+    "surgical": 0.058,
+    "aggressive": 0.023,
+    "truncate": 0.017
+   }
+  }
+ }
+}

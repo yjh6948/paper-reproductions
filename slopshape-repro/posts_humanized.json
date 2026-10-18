@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Onboarding takes too long at most companies",
+    "text": "Three weeks is normal for onboarding a new hire, and most of that time goes to hunting down basics instead of doing real work. A few things fix it fast.\n\nCentralize the documentation so people stop digging through five different wikis for VPN setup or benefits. Assign someone as an onboarding buddy for the first two weeks, not just for the first day. And get IT to provision accounts before day one instead of scrambling on day five.\n\nOne team I know went from three weeks to ten days doing exactly this. The paperwork was never the bottleneck. Nobody knowing where to find anything was."
+  },
+  {
+    "id": 2,
+    "title": "Your cloud bill is probably too high",
+    "text": "Cloud costs creep up quietly, and by the time finance flags it, the fix feels like an emergency instead of routine maintenance. It doesn't have to be.\n\nMost teams over-provision instances by 30-40% just to be safe, so right-sizing is usually the first thing worth checking. Reserved capacity locks in a discount for anything predictable. Auto-scaling handles the rest, matching capacity to actual traffic instead of a guess about peak hour.\n\nCompanies that do all three tend to cut spend 25-35% in a quarter. The catch is that nobody wants to spend a week auditing instance sizes, so it keeps getting pushed off."
+  },
+  {
+    "id": 3,
+    "title": "Your remote team has too many channels, not too few messages",
+    "text": "Five different tools and no single source of truth is the usual culprit when a remote team's communication falls apart. More messages don't fix that. Fewer, better-placed ones do.\n\nA written charter that says which channel is for what sounds bureaucratic, but it works. Pair it with weekly async updates and meeting load tends to drop within a month, mostly because people stop asking clarifying questions that a written update would have already answered.\n\nThe teams that skip the charter usually end up adding a sixth tool instead of fixing the problem."
+  },
+  {
+    "id": 4,
+    "title": "Generic retention emails don't stop churn",
+    "text": "Churn almost never has one cause, so a single retention campaign rarely moves the number. What actually works is finding out what's actually driving it.\n\nSegment churned customers by how they used the product, not by plan tier. Talk to a handful from each segment, because the real friction point is usually something support tickets never surfaced. Then fix whatever touches the most accounts first, not whatever complaint was loudest.\n\nMost teams find their top two churn drivers within a quarter doing this. The interviews are the part people skip, and they're the part that actually matters."
+  },
+  {
+    "id": 5,
+    "title": "Rate limiting your API isn't optional at scale",
+    "text": "One client hammering your API can take it down for everyone else, and past a certain size that's not a hypothetical.\n\nToken bucket handles bursty traffic well and is what most public APIs default to. Fixed window is easier to build but lets traffic spike right at the window boundary. Sliding window fixes that but costs more memory to track.\n\nMost teams start with token bucket and only bother with sliding window once burst abuse actually becomes a problem worth solving."
+  },
+  {
+    "id": 6,
+    "title": "Why finance discounts your sales forecast by 30%",
+    "text": "Reps self-report deal stages optimistically, so finance has learned to discount whatever the pipeline says before planning around it.\n\nThe fix is stage-exit criteria: a deal only moves forward when something verifiable happens, not when a rep feels good about a call. Pair that with a rolling 90-day win rate by stage and most of the guesswork disappears.\n\nTeams that switch to stage-exit criteria usually see forecast accuracy improve within two quarters, mostly because finance finally has something concrete to check the numbers against."
+  },
+  {
+    "id": 7,
+    "title": "Nobody tests whether their backups actually restore",
+    "text": "Most small teams back up their data. Almost none of them check whether the backup would actually work in a restore, and that's where the real disasters come from.\n\nThe usual mistake is treating backup as a checkbox: files copy overnight, nobody ever verifies the copy is usable. The 3-2-1 rule helps: three copies, two kinds of media, one offsite. Add a quarterly restore drill and you'll usually catch corruption or misconfiguration months before it would have mattered.\n\nThe backup job running isn't the protection. Knowing it works is."
+  },
+  {
+    "id": 8,
+    "title": "Your A/B test might be lying to you",
+    "text": "A clean-looking dashboard doesn't mean the test is valid, and most teams never check for the mistakes that would tell them otherwise.\n\nStopping a test the moment it looks significant is the most common one. Running several tests on overlapping traffic without accounting for interaction effects is close behind. And novelty effects trip people up constantly: a new design wins short term simply because it's new, not because it's better.\n\nPre-register your sample size, isolate traffic per test, and run it longer than feels comfortable. That's usually enough to tell a real win from noise."
+  },
+  {
+    "id": 9,
+    "title": "Small teams get hacked too",
+    "text": "Being too small to be a target is exactly the assumption attackers count on.\n\nA shared password manager beats spreadsheets and sticky notes every time. Multi-factor authentication should cover every account that supports it, not just the obvious ones like email. And when someone leaves, rotate their credentials that day, not at the next scheduled review, whenever that happens to be.\n\nMost teams close the bulk of their exposure within a week of doing these three things. None of it requires a security budget."
+  },
+  {
+    "id": 10,
+    "title": "More meetings won't fix your meeting problem",
+    "text": "Meetings multiply on their own past a certain team size, and adding a meeting to solve that just makes it worse.\n\nThe usual cause is that status updates default to a live meeting instead of a written one. Moving recurring status updates async removes most of that bloat on its own. Keep live meetings for things that actually need real-time back-and-forth, like a decision that can't wait for someone to read a doc.\n\nOne team cut weekly meeting hours by a third within a month just from that one change."
+  }
+]

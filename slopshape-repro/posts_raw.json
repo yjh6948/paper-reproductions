@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "How to Cut Employee Onboarding Time in Half",
+    "text": "Onboarding a new hire can take weeks, and much of that time is wasted on repetitive paperwork and scattered documentation. In this post, we'll cover why onboarding stalls, three fixes that work, and how to measure the difference.\n\nFirst, centralize your documentation. Scattered wikis and shared drives force new hires to hunt for basics like VPN setup or benefits enrollment. Second, assign a dedicated onboarding buddy for the first two weeks. Third, automate account provisioning so IT access is ready on day one, not day five.\n\nTeams that adopt these three practices report onboarding times dropping from three weeks to ten days on average. In short, structured onboarding saves time, reduces new-hire frustration, and gets people contributing faster."
+  },
+  {
+    "id": 2,
+    "title": "The Definitive Guide to Cutting Cloud Costs Without Cutting Capacity",
+    "text": "Cloud bills climb quietly until finance notices, and by then the fix feels urgent instead of planned. This guide walks through why costs creep up, the levers that actually move the needle, and how to keep them down long term.\n\nRight-sizing instances is the first lever: most teams over-provision by 30-40% out of caution. Reserved capacity is the second lever, locking in discounts for predictable workloads. Auto-scaling is the third lever, matching capacity to real-time demand instead of peak-hour guesses.\n\nCompanies applying all three typically see cloud spend fall 25-35% within a quarter. In summary, disciplined right-sizing, reservations, and auto-scaling together deliver durable savings without sacrificing performance."
+  },
+  {
+    "id": 3,
+    "title": "Why Your Remote Team's Communication Is Breaking Down (And How to Fix It)",
+    "text": "Remote teams often mistake more messages for more communication, and the mismatch shows up in missed context and duplicated work. We'll look at the root cause, the fix, and what good async communication actually looks like.\n\nThe root cause is usually channel sprawl: five tools, no single source of truth. The fix starts with a written communication charter that specifies which channel is for what. Teams that pair this with weekly async updates cut meeting load significantly.\n\nOnce the charter is in place, most teams see fewer clarifying questions and faster decisions within a month. To sum up, a clear communication charter plus disciplined async updates fixes most remote communication problems."
+  },
+  {
+    "id": 4,
+    "title": "Reducing Customer Churn: A Practical Framework"
+    ,"text": "Churn rarely happens for one reason, which is exactly why generic retention emails don't move the needle. This post breaks down the framework for finding your real churn drivers and acting on them before renewal.\n\nStart by segmenting churned customers by usage pattern, not just plan tier. Then interview a sample from each segment to surface the actual friction point. Finally, prioritize fixes by how many accounts each friction point touches, not by how loud the complaint was.\n\nTeams using this framework typically identify their top two churn drivers within a single quarter. Ultimately, segmentation, targeted interviews, and impact-based prioritization turn churn reduction from guesswork into a repeatable process."
+  },
+  {
+    "id": 5,
+    "title": "API Rate Limiting: What Every Backend Team Should Know"
+    ,"text": "A single misbehaving client can take down an API for everyone, which is why rate limiting isn't optional past a certain scale. Here's what you need to know about the main strategies and when to use each one.\n\nToken bucket limiting handles bursty traffic well and is the default choice for most public APIs. Fixed window limiting is simpler to implement but allows traffic spikes at window boundaries. Sliding window limiting smooths that out at the cost of more memory overhead.\n\nMost teams start with token bucket and move to sliding window once burst abuse becomes a real problem. In short, token bucket, fixed window, and sliding window each trade simplicity for precision differently."
+  },
+  {
+    "id": 6,
+    "title": "Sales Pipeline Forecasting That Finance Actually Trusts"
+    ,"text": "Sales forecasts miss so often that finance teams routinely discount them by 20-30% before planning around them. This post covers why forecasts drift, the fix, and how to rebuild trust with finance.\n\nForecasts drift because reps self-report deal stages optimistically. The fix is stage-exit criteria: a deal only advances when specific, verifiable actions happen, not when a rep feels good about a call. Pairing this with a rolling 90-day historical win-rate by stage removes most of the guesswork.\n\nTeams that implement stage-exit criteria typically see forecast accuracy improve within two quarters. In the end, verifiable stage criteria and historical win-rates are what rebuild finance's trust in the pipeline."
+  },
+  {
+    "id": 7,
+    "title": "The Backup Strategy Most Small Teams Get Wrong"
+    ,"text": "Most small teams back up their data, but few test whether the backup actually restores, and that gap is where disasters happen. This post explains the common mistake, the fix, and a simple test you can run this week.\n\nThe common mistake is treating backup as a checkbox instead of a process: files copy nightly, nobody verifies the copy is usable. The fix is the 3-2-1 rule: three copies, two different media, one offsite. Add a quarterly restore drill and the gap closes.\n\nTeams that run restore drills catch corruption or misconfiguration long before a real incident forces the discovery. In summary, the 3-2-1 rule plus a quarterly restore drill is what actually protects you, not the backup job alone."
+  },
+  {
+    "id": 8,
+    "title": "Three A/B Testing Mistakes That Quietly Ruin Your Results"
+    ,"text": "A/B tests that look clean on the dashboard often hide mistakes that invalidate the whole result, and most teams never catch them. Here are the three mistakes to watch for and how to avoid each one.\n\nThe first mistake is peeking early and stopping the test the moment it looks significant. The second is running multiple tests on overlapping traffic without accounting for interaction effects. The third is ignoring novelty effects, where a new design wins short term simply because it's new.\n\nFixing all three usually means pre-registering sample size, isolating traffic per test, and running a longer observation window. Ultimately, disciplined pre-registration, traffic isolation, and longer windows are what separate real wins from statistical noise."
+  },
+  {
+    "id": 9,
+    "title": "Password Security for Small Teams: A No-Nonsense Guide"
+    ,"text": "Small teams often assume they're too small to be a target, and that assumption is exactly what attackers count on. This guide covers the three changes that close most of the gap without slowing anyone down.\n\nFirst, adopt a password manager with shared vaults instead of spreadsheets or sticky notes. Second, require multi-factor authentication on every account that supports it, not just the obvious ones. Third, rotate credentials immediately when someone leaves the team, not at the next scheduled review.\n\nTeams that make these three changes close the majority of their exposure within a week. To sum up, a password manager, universal MFA, and immediate offboarding rotation are the changes that matter most."
+  },
+  {
+    "id": 10,
+    "title": "Why Your Meetings Keep Multiplying (And How Async Work Fixes It)"
+    ,"text": "Meetings tend to multiply on their own once a team crosses a certain size, and adding more meetings to fix that only makes it worse. This post explains why that happens and how shifting to async work reverses it.\n\nMeetings multiply because status updates default to a live meeting instead of a written one. Shifting recurring status meetings to async written updates removes the biggest source of meeting bloat. Reserving live meetings only for decisions that need real-time back-and-forth keeps the calendar sane.\n\nTeams that make this shift typically cut weekly meeting hours by a third within a month. In short, moving status updates async and reserving live meetings for real decisions is what actually fixes meeting overload."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "domain_a": "personal finance",
+    "domain_b": "home ownership",
+    "beh_a": "escalates commitment after sunk cost investment",
+    "beh_b": "escalates commitment after sunk cost spending",
+    "cos_beh": 0.8333333333333335,
+    "cos_sem": 0.25000000000000006,
+    "collision": false,
+    "expected": true
+  },
+  {
+    "domain_a": "workplace communication",
+    "domain_b": "dining out",
+    "beh_a": "over-verifies small decisions to avoid a bad outcome",
+    "beh_b": "over-verifies small decisions to avoid a bad outcome",
+    "cos_beh": 0.9999999999999999,
+    "cos_sem": 0.18181818181818182,
+    "collision": false,
+    "expected": true
+  },
+  {
+    "domain_a": "exercise",
+    "domain_b": "software engineering",
+    "beh_a": "prefers a specific routine time of day",
+    "beh_b": "prefers a specific coding language style",
+    "cos_beh": 0.3999999999999999,
+    "cos_sem": 0.0,
+    "collision": true,
+    "expected": false
+  }
+]

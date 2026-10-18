@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "fact": "User prefers working from home full-time; finds it more productive than the office.",
+    "supersedes": null,
+    "superseded_by": 1
+  },
+  {
+    "id": 1,
+    "fact": "User now goes into the office one day a week to see the team, while still mostly remote.",
+    "supersedes": 0,
+    "superseded_by": 2
+  },
+  {
+    "id": 2,
+    "fact": "User has reverted to preferring full remote; the commute was too draining.",
+    "supersedes": 1,
+    "superseded_by": 3
+  },
+  {
+    "id": 3,
+    "fact": "User goes into the office three days a week at a new, better office, and is enjoying it.",
+    "supersedes": 2,
+    "superseded_by": 4
+  },
+  {
+    "id": 4,
+    "fact": "User wants to be in the office most of the time now; remote days feel isolating.",
+    "supersedes": 3,
+    "superseded_by": null
+  }
+]
